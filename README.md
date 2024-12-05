@@ -8,6 +8,9 @@ PlantStructGPT is a specialized Generative Pre-trained Transformer (GPT) designe
 
 PlantStructGPT 是一款专为 **植物解剖学**、**结构生物学** 和 **繁殖生物学** 设计的预训练生成模型（GPT）。它结合领域专长与自然语言处理技术，提供基于引用的精准回答、组织切片图像分析以及科学文献解读功能。
 
+You can explore **PlantStructGPT** on [ChatGPT Platform](https://chatgpt.com/g/g-67501e6d71408191b34d9bd94416def7-plantstructgpt). You can also search for **PlantStructGPT** directly in the **GPTs** section of [ChatGPT](https://chatgpt.com/gpts).
+
+您可以在 [ChatGPT平台](https://chatgpt.com/g/g-67501e6d71408191b34d9bd94416def7-plantstructgpt) 上探索 **PlantStructGPT**。也可以直接在 [ChatGPT](https://chatgpt.com/gpts) 的 **GPTs** 部分搜索 **PlantStructGPT**。
 ---
 
 ## Features | 功能特色
